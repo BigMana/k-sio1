@@ -1,4 +1,18 @@
 .screen{
     min-height: 50px;
     text-align: right;
+    background-color: antiquewhite;
+}
+section{
+    margin: 10px;
+    background-color: aqua;
+}
+#egal{
+    background-color: blue;
+}
+#reset{
+    background-color: orange;
+}
+#divise, #multi, #moins, #plus{
+    background: linear-gradient(0.25turn, grey, white, grey);
 }

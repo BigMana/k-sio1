@@ -30,3 +30,11 @@ Ressources
 https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base
 
 JS à tester
+---
+````js
+//Comantaire
+console.log("hello World");
+var a = "abc"
+````
+
+`CTRL + ALT + W + flechebas`
